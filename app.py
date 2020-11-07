@@ -182,11 +182,7 @@ class exo1(exercice): #heritage
 
     def __init__(self, name, age, matricule):
         self.name = name
-        self.age = age
-        self.matricule = matricule
-
-
-
+    
 
 
 
